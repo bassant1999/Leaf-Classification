@@ -8,7 +8,7 @@ the dataset: https://www.kaggle.com/c/leaf-classification/data
 2. data cleaning  \
 I have tried removing missing values, and duplicate rows, but no missing values or duplicates 
 3. Data visualization:\
- 
+ ![dataset](imgs/visualization1.PNG)
 5. Draw some of the images 
  
  
